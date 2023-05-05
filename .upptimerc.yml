@@ -14,6 +14,11 @@ sites:
   - name: iMagine dev training dashboard
     url: https://dashboard.dev.imagine-ai.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
+    
+  # PAPI
+  - name: AI4EOSC Platform API
+    url: https://api.dev.ai4eosc.eu
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
 
   # Cookiecutter
   - name: AI4EOSC repository template generator
