@@ -62,6 +62,12 @@ sites:
     url: https://inference.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg
     asignees: gmolto
+    
+  # Flowfuse AI4EOSC
+  - name: Flowfuse AI4EOSC - Provucer UPV/GRyCAP
+    url: https://forge.flows.dev.ai4eosc.eu
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-flowfuse.png
+    asignees: dieagra
 
   # Cloud endpoints
   - name: Provider IFCA-LCG2 org.openstack.nova
