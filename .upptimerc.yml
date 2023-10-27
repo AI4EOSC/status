@@ -43,7 +43,7 @@ sites:
   - name: AI4EOSC repository template generator
     url: https://templates.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    assignees: v
+    assignees:
       - vykozlov
 
   # CI/CD
