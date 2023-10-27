@@ -43,7 +43,17 @@ sites:
   - name: AI4EOSC repository template generator
     url: https://templates.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: vykozlov
+    assignees: v
+      - vykozlov
+
+  # CI/CD
+  - name: AI4EOSC Jenkins CI/CD system
+    url: https://jenkins.indigo-datacloud.eu/
+    icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
+    assignees: 
+      - orviz
+      - IgnacioHeredia
+      - vykozlov
 
   # PaaS orchestrator
   - name: INDIGO PaaS orchestrator - Provider INFN-CLOUD-BARI
