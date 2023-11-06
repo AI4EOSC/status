@@ -64,7 +64,7 @@ sites:
     asignees: gmolto
     
   # Flowfuse AI4EOSC
-  - name: Flowfuse AI4EOSC - Provucer UPV/GRyCAP
+  - name: Flowfuse AI4EOSC - Provider UPV/GRyCAP
     url: https://forge.flows.dev.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-flowfuse.png
     asignees: dieagra
