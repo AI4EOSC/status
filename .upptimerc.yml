@@ -72,9 +72,23 @@ sites:
       - mariojmdavid
       - alvarolopez
 
+  - name: AI4OS Registry
+    url: https://registry.services.ai4os.eu
+    icon: https://goharbor.io/img/logos/harbor-icon-color.png
+    asignees:
+      - mariojmdavid
+
   # CI/CD
-  - name: AI4EOSC Jenkins CI/CD system
+  - name: AI4EOSC Jenkins CI/CD system (old)
     url: https://jenkins.indigo-datacloud.eu/
+    icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
+    assignees: 
+      - alvarolopez
+      - IgnacioHeredia
+      - vykozlov
+      
+  - name: AI4EOSC Jenkins CI/CD system
+    url: https://jenkins.cloud.ai4eosc.eu/
     icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
     assignees: 
       - alvarolopez
