@@ -187,11 +187,11 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-4-eosc-platform-api",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.53%",
+    "uptimeYear": "98.54%",
     "time": 950,
     "timeDay": 502,
     "timeWeek": 1010,
@@ -275,19 +275,19 @@
     "url": "https://registry.services.ai4os.eu/",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-4-os-container-registry",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1004,
     "timeDay": 743,
     "timeWeek": 920,
     "timeMonth": 958,
     "timeYear": 1004,
     "dailyMinutesDown": {
-      "2024-01-30": 12
+      "2024-01-30": 2
     }
   },
   {
@@ -316,11 +316,11 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-4-os-next-cloud-storage-old-instance",
     "status": "up",
-    "uptime": "94.85%",
+    "uptime": "94.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.55%",
-    "uptimeYear": "94.85%",
+    "uptimeYear": "94.86%",
     "time": 834,
     "timeDay": 989,
     "timeWeek": 1019,
@@ -339,19 +339,19 @@
     "url": "https://registry.services.ai4os.eu",
     "icon": "https://goharbor.io/img/logos/harbor-icon-color.png",
     "slug": "ai-4-os-registry",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 118,
     "timeWeek": 135,
     "timeMonth": 131,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-01-30": 11
+      "2024-01-30": 2
     }
   },
   {
@@ -395,10 +395,10 @@
     "url": "https://console.minio.crazy-kowalevski5.im.grycap.net",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-minio.png",
     "slug": "min-io-object-storage-provider-upv-g-ry-cap",
-    "status": "up",
+    "status": "down",
     "uptime": "98.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.18%",
     "time": 485,
@@ -407,6 +407,7 @@
     "timeMonth": 477,
     "timeYear": 485,
     "dailyMinutesDown": {
+      "2024-01-30": 1,
       "2023-10-10": 947,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -419,10 +420,10 @@
     "url": "https://inference.cloud.ai4eosc.eu",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg",
     "slug": "oscar-ui-provider-upv-g-ry-cap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 951,
@@ -431,6 +432,7 @@
     "timeMonth": 943,
     "timeYear": 951,
     "dailyMinutesDown": {
+      "2024-01-30": 1,
       "2023-07-26": 15
     }
   },
@@ -439,9 +441,9 @@
     "url": "https://forge.flows.dev.ai4eosc.eu",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-flowfuse.png",
     "slug": "flowfuse-ai-4-eosc-provider-upv-g-ry-cap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -450,7 +452,9 @@
     "timeWeek": 1282,
     "timeMonth": 1246,
     "timeYear": 1210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-30": 0
+    }
   },
   {
     "name": "Provider IFCA-LCG2 org.openstack.nova",
