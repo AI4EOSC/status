@@ -1,7 +1,7 @@
 url: https://cloud.ui.savba.sk:5000/v3
-status: down
-code: 503
-responseTime: 550
-lastUpdated: 2024-02-27T13:24:17.397Z
+status: up
+code: 200
+responseTime: 869
+lastUpdated: 2024-02-27T13:36:36.657Z
 startTime: 2023-05-23T14:39:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
