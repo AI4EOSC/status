@@ -50,6 +50,7 @@ sites:
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     assignees:
       - vykozlov
+      - BorjaEst
       
   # Registry
   - name: AI4OS container registry
@@ -77,6 +78,28 @@ sites:
     icon: https://goharbor.io/img/logos/harbor-icon-color.png
     asignees:
       - mariojmdavid
+
+  # MLflow
+  # mlflow instance (AI4EOSC)(Prod)
+  - name: MLflow UI (AI4EOSC)(Prod)
+    url: https://mlflow.cloud.ai4eosc.eu/
+    expectedStatusCodes:
+      - 200
+      - 401
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    assignees:
+      - vykozlov
+      - lisanaberberi
+
+  # mlflow instance (iMagine)(Prod)
+  - name: MLflow UI (iMagine)(Prod)
+    url: https://mlflow.cloud.imagine-ai.eu/
+    expectedStatusCodes:
+      - 200
+      - 401
+    icon: https://cdn.imagine-ai.eu/app/uploads/2023/02/logo-imagine-full-blue.png
+    assignees:
+      - vykozlov
 
   # CI/CD
   - name: AI4EOSC Jenkins CI/CD system (old)
