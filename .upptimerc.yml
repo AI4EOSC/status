@@ -66,12 +66,12 @@ sites:
     assigness:
       - mariojmdavid
 
-  - name: AI4OS NextCloud storage (old instance)
-    url: https://data-deep.a.incd.pt/
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    assigness:
-      - mariojmdavid
-      - alvarolopez
+  # - name: AI4OS NextCloud storage (old instance)
+  #   url: https://data-deep.a.incd.pt/
+  #   icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+  #   assigness:
+  #     - mariojmdavid
+  #     - alvarolopez
 
   - name: AI4OS Registry
     url: https://registry.services.ai4os.eu
@@ -102,13 +102,13 @@ sites:
       - vykozlov
 
   # CI/CD
-  - name: AI4EOSC Jenkins CI/CD system (old)
-    url: https://jenkins.indigo-datacloud.eu/
-    icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
-    assignees: 
-      - alvarolopez
-      - IgnacioHeredia
-      - vykozlov
+  # - name: AI4EOSC Jenkins CI/CD system (old)
+  #   url: https://jenkins.indigo-datacloud.eu/
+  #   icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
+  #   assignees: 
+  #     - alvarolopez
+  #     - IgnacioHeredia
+  #     - vykozlov
       
   - name: AI4OS Jenkins CI/CD system
     url: https://jenkins.services.ai4os.eu/
