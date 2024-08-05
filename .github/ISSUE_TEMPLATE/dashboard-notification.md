@@ -2,7 +2,7 @@
 name: Dashboard notification for users
 about: Create a notification users will see in the Dashboard.
 title: "[dashboard-notification] ***"
-labels: dashboard-notifications
+labels: dashboard-notification
 assignees: ''
 
 ---
