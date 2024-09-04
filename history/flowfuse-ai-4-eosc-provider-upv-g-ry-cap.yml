@@ -1,7 +1,7 @@
 url: https://forge.flows.dev.ai4eosc.eu
-status: up
-code: 200
-responseTime: 1096
-lastUpdated: 2024-09-03T23:10:35.935Z
+status: down
+code: 502
+responseTime: 887
+lastUpdated: 2024-09-04T06:58:58.750Z
 startTime: 2023-11-14T22:17:50.281Z
 generator: Upptime <https://github.com/upptime/upptime>
