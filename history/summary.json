@@ -446,10 +446,10 @@
     "url": "https://registry.services.ai4os.eu/",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "ai-4-os-container-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 987,
@@ -458,6 +458,7 @@
     "timeMonth": 1009,
     "timeYear": 987,
     "dailyMinutesDown": {
+      "2024-10-23": 2,
       "2024-09-18": 40,
       "2024-03-04": 323,
       "2024-01-31": 582,
@@ -498,10 +499,10 @@
     "url": "https://registry.services.ai4os.eu",
     "icon": "https://goharbor.io/img/logos/harbor-icon-color.png",
     "slug": "ai-4-os-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 133,
@@ -510,6 +511,7 @@
     "timeMonth": 135,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2024-10-23": 1,
       "2024-09-18": 40,
       "2024-03-04": 323,
       "2024-01-31": 581,
@@ -521,9 +523,9 @@
     "url": "https://mlflow.cloud.ai4eosc.eu/",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "m-lflow-ui-ai-4-eosc-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -532,7 +534,9 @@
     "timeWeek": 599,
     "timeMonth": 874,
     "timeYear": 816,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 1
+    }
   },
   {
     "name": "MLflow UI (iMagine)(Prod)",
