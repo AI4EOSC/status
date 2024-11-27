@@ -1,7 +1,7 @@
 url: https://jenkins.services.ai4os.eu/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-27T16:21:40.397Z
+status: up
+code: 200
+responseTime: 801
+lastUpdated: 2024-11-27T16:43:37.581Z
 startTime: 2023-12-05T08:25:27.357Z
 generator: Upptime <https://github.com/upptime/upptime>
