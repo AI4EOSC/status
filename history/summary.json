@@ -556,19 +556,19 @@
     "url": "https://mlflow.cloud.ai4eosc.eu/",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "m-lflow-ui-ai-4-eosc-prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 803,
-    "timeWeek": 717,
-    "timeMonth": 777,
-    "timeYear": 795,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
+    "time": 794,
+    "timeDay": 679,
+    "timeWeek": 696,
+    "timeMonth": 770,
+    "timeYear": 794,
     "dailyMinutesDown": {
-      "2024-12-17": 1
+      "2024-12-17": 60
     }
   },
   {
