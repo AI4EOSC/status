@@ -579,11 +579,11 @@
     "url": "https://mlflow.cloud.imagine-ai.eu/",
     "icon": "https://cdn.imagine-ai.eu/app/uploads/2023/02/logo-imagine-full-blue.png",
     "slug": "m-lflow-ui-i-magine-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 813,
     "timeDay": 581,
@@ -591,7 +591,7 @@
     "timeMonth": 784,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2025-01-20": 12
+      "2025-01-20": 1
     }
   },
   {
