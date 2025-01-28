@@ -66,13 +66,6 @@ sites:
     assigness:
       - mariojmdavid
 
-  # - name: AI4OS NextCloud storage (old instance)
-  #   url: https://data-deep.a.incd.pt/
-  #   icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-  #   assigness:
-  #     - mariojmdavid
-  #     - alvarolopez
-
   - name: AI4OS Registry
     url: https://registry.services.ai4os.eu
     icon: https://goharbor.io/img/logos/harbor-icon-color.png
@@ -100,29 +93,13 @@ sites:
     icon: https://cdn.imagine-ai.eu/app/uploads/2023/02/logo-imagine-full-blue.png
     assignees:
       - vykozlov
-
-  # CI/CD
-  # - name: AI4EOSC Jenkins CI/CD system (old)
-  #   url: https://jenkins.indigo-datacloud.eu/
-  #   icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
-  #   assignees: 
-  #     - alvarolopez
-  #     - IgnacioHeredia
-  #     - vykozlov
       
   - name: AI4OS Jenkins CI/CD system
     url: https://jenkins.services.ai4os.eu/
     icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
     assignees: 
       - alvarolopez
-      - IgnacioHeredia
       - vykozlov
-
-  # PaaS orchestrator
-  # - name: INDIGO PaaS orchestrator - Provider INFN-CLOUD-BARI
-  #   url: https://indigo-paas.cloud.ba.infn.it
-  #   icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-indigo.jpeg
-  #   asignees: maricaantonacci
 
   # MinIO
   - name: MinIO object storage - Provider UPV/GRyCAP
@@ -157,11 +134,6 @@ sites:
     url: https://cloud.ui.savba.sk:5000/v3
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-iisas.jpeg
     asignees: tdviet
-
-  # - name: Provider INFN-CLOUD-BARI org.openstack.nova
-  #   url: https://cloud.recas.ba.infn.it:5000/v3
-  #   icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-infn.png
-  #   asignees: maricaantonacci
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
