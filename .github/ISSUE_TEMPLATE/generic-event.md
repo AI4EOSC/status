@@ -1,7 +1,7 @@
 ---
-name: Maintenance Event
+name: Generic event
 about: Schedule a work window
-title: "[Scheduled Maintenance] Site down for Maintenance"
+title: "***"
 labels: ''
 assignees: ''
 
@@ -14,4 +14,4 @@ expectedDown: google, hacker-news
 -->
 
 **Additional context**
-Who/what/when/where/why is this maintenance happening
+Who/what/when/where/why is this event happening
