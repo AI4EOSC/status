@@ -1,7 +1,7 @@
 ---
 name: Nomad maintenance event
-about: Create a nomad maintenance event that the users will see in the Dashboard.
-title: "[nomad-maintenance] ***"
+about: Create a Nomad maintenance event that the users will see in the Dashboard.
+title: "[nomad-maintenance] Downtime for Nomad maintenance"
 labels: nomad-maintenance
 assignees: ''
 
