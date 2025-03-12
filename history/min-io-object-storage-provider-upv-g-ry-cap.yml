@@ -1,7 +1,7 @@
 url: https://console.minio.crazy-kowalevski5.im.grycap.net
-status: up
-code: 200
-responseTime: 529
-lastUpdated: 2025-03-11T23:10:19.839Z
+status: down
+code: 502
+responseTime: 590
+lastUpdated: 2025-03-12T11:58:22.561Z
 startTime: 2023-06-15T15:34:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
