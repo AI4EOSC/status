@@ -6,33 +6,34 @@ sites:
   - name: AI4EOSC
     url: https://ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    asignees: alvarolopez
 
   # Dashboards
   - name: AI4EOSC training dashboard
     url: https://dashboard.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: andresheca
+    asignees: MartaOB
 
   - name: AI4EOSC (tutorials) training dashboard
     url: https://tutorials.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: andresheca
+    asignees: MartaOB
 
   - name: AI4EOSC (dev) training dashboard
     url: https://dashboard.dev.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: andresheca
+    asignees: MartaOB
 
   - name: iMagine training dashboard
     url: https://dashboard.cloud.imagine-ai.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
-    asignees: andresheca
-    
+    asignees: MartaOB
+
   - name: iMagine (dev) training dashboard
     url: https://dashboard.dev.imagine-ai.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
-    asignees: andresheca
-    
+    asignees: MartaOB
+
   # PAPI
   - name: AI4EOSC Platform API
     url: https://api.cloud.ai4eosc.eu
@@ -51,7 +52,7 @@ sites:
     assignees:
       - vykozlov
       - BorjaEst
-      
+
   # Registry
   - name: AI4OS container registry
     url: https://registry.services.ai4os.eu/
@@ -66,6 +67,7 @@ sites:
     assigness:
       - mariojmdavid
 
+  # Harbor registry
   - name: AI4OS Registry
     url: https://registry.services.ai4os.eu
     icon: https://goharbor.io/img/logos/harbor-icon-color.png
@@ -93,11 +95,12 @@ sites:
     icon: https://cdn.imagine-ai.eu/app/uploads/2023/02/logo-imagine-full-blue.png
     assignees:
       - vykozlov
-      
+
+  # Jenkins CI/CD
   - name: AI4OS Jenkins CI/CD system
     url: https://jenkins.services.ai4os.eu/
     icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
-    assignees: 
+    assignees:
       - alvarolopez
       - vykozlov
 
@@ -112,7 +115,7 @@ sites:
     url: https://inference.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg
     asignees: gmolto
-    
+
   # Flowfuse AI4EOSC
   - name: Flowfuse AI4EOSC - Provider UPV/GRyCAP
     url: https://forge.flows.dev.ai4eosc.eu
