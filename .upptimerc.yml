@@ -119,6 +119,12 @@ sites:
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-flowfuse.png
     asignees: dieagra
 
+  # AI4OS LLM
+  - name: AI4OS LLM
+    url: https://llm.dev.ai4eosc.eu/
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    asignees: alvarolopez
+
   # Cloud endpoints
   - name: Provider IFCA-LCG2 org.openstack.nova
     url: https://api.cloud.ifca.es:5000/v3
