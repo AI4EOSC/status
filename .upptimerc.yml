@@ -53,12 +53,6 @@ sites:
       - vykozlov
       - BorjaEst
 
-  # Registry
-  - name: AI4OS container registry
-    url: https://registry.services.ai4os.eu/
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    assigness:
-      - mariojmdavid
 
   # Storage
   - name: AI4OS NextCloud storage
@@ -68,7 +62,7 @@ sites:
       - mariojmdavid
 
   # Harbor registry
-  - name: AI4OS Registry
+  - name: AI4OS Harbor Registry
     url: https://registry.services.ai4os.eu
     icon: https://goharbor.io/img/logos/harbor-icon-color.png
     asignees:
