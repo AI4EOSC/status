@@ -1,7 +1,7 @@
 url: https://api.dev.ai4eosc.eu
-status: up
-code: 200
-responseTime: 519
-lastUpdated: 2025-05-25T23:11:01.312Z
+status: down
+code: 503
+responseTime: 4072
+lastUpdated: 2025-05-26T08:43:24.829Z
 startTime: 2023-06-05T12:27:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
