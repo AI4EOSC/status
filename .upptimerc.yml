@@ -3,95 +3,81 @@ owner: AI4EOSC # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
-  - name: AI4EOSC
+  - name: Homepage
     url: https://ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: alvarolopez
+    assignees:
+      - alvarolopez
 
   # Dashboards
-  - name: AI4EOSC training dashboard
+  - name: Dashboard (AI4EOSC)
     url: https://dashboard.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: MartaOB
+    assignees:
+      - MartaOB
 
-  - name: AI4EOSC (tutorials) training dashboard
-    url: https://tutorials.cloud.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: MartaOB
-
-  - name: AI4EOSC (dev) training dashboard
-    url: https://dashboard.dev.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: MartaOB
-
-  - name: iMagine training dashboard
+  - name: Dashboard (iMagine)
     url: https://dashboard.cloud.imagine-ai.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
-    asignees: MartaOB
+    assignees:
+      - MartaOB
 
-  - name: iMagine (dev) training dashboard
-    url: https://dashboard.dev.imagine-ai.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-imagine.png
-    asignees: MartaOB
+  - name: Dashboard (AI4Life)
+    url: https://dashboard.cloud.ai4eosc.eu
+    icon: https://ai4life.eurobioimaging.eu/wp-content/uploads/2022/09/AI4Life-logo_giraffe-nodes-1536x710.png
+    assignees:
+      - MartaOB
 
-  # PAPI
-  - name: AI4EOSC Platform API
-    url: https://api.cloud.ai4eosc.eu
+  - name: Dashboard (tutorials)
+    url: https://tutorials.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: IgnacioHeredia
-
-  - name: AI4EOSC Platform API (dev)
-    url: https://api.dev.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: IgnacioHeredia
+    assignees:
+      - MartaOB
 
   # Cookiecutter
-  - name: AI4EOSC repository template generator
+  - name: Module template generator
     url: https://templates.cloud.ai4eosc.eu/
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    icon: https://avatars.githubusercontent.com/u/12502901?v=4
     assignees:
       - vykozlov
       - BorjaEst
 
-
   # Storage
-  - name: AI4OS NextCloud storage
+  - name: Storage (NextCloud)
     url: https://share.services.ai4os.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    assigness:
+    icon: https://avatars.githubusercontent.com/u/19211038?s=280&v=4
+    assignees:
       - mariojmdavid
 
-  # Harbor registry
-  - name: AI4OS Harbor Registry
-    url: https://registry.services.ai4os.eu
-    icon: https://goharbor.io/img/logos/harbor-icon-color.png
-    asignees:
-      - mariojmdavid
-
-  # MLflow
-  # mlflow instance (AI4EOSC)(Prod)
-  - name: MLflow UI (AI4EOSC)(Prod)
+   # MLflow
+  - name: MLflow (AI4EOSC)
     url: https://mlflow.cloud.ai4eosc.eu/
     expectedStatusCodes:
       - 200
       - 401
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    icon: https://avatars.githubusercontent.com/u/39938107?v=4
     assignees:
       - vykozlov
       - lisanaberberi
 
-  # mlflow instance (iMagine)(Prod)
-  - name: MLflow UI (iMagine)(Prod)
+  - name: MLflow (iMagine)
     url: https://mlflow.cloud.imagine-ai.eu/
     expectedStatusCodes:
       - 200
       - 401
-    icon: https://cdn.imagine-ai.eu/app/uploads/2023/02/logo-imagine-full-blue.png
+    icon: https://avatars.githubusercontent.com/u/39938107?v=4
     assignees:
       - vykozlov
 
+  # AI4OS LLM
+  - name: AI4OS LLM
+    url: https://llm.dev.ai4eosc.eu/
+    icon: https://avatars.githubusercontent.com/u/158137808?s=200&v=4
+    assignees:
+      - alvarolopez
+
   # Jenkins CI/CD
-  - name: AI4OS Jenkins CI/CD system
+  - name: CI/CD (Jenkins)
     url: https://jenkins.services.ai4os.eu/
     icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
     assignees:
@@ -102,41 +88,55 @@ sites:
   - name: MinIO object storage - Provider UPV/GRyCAP
     url: https://console.minio.crazy-kowalevski5.im.grycap.net
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-minio.png
-    asignees: gmolto
+    assignees:
+      - gmolto
 
   # OSCAR UI
   - name: OSCAR UI - Provider UPV/GRyCAP
     url: https://inference.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg
-    asignees: gmolto
+    assignees:
+      - gmolto
 
   # Flowfuse AI4EOSC
   - name: Flowfuse AI4EOSC - Provider UPV/GRyCAP
     url: https://forge.flows.dev.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-flowfuse.png
-    asignees: dieagra
+    assignees:
+      - dieagra
 
-  # AI4OS LLM
-  - name: AI4OS LLM
-    url: https://llm.dev.ai4eosc.eu/
+  # PAPI
+  - name: Platform API
+    url: https://api.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    asignees: alvarolopez
+    assignees:
+      - IgnacioHeredia
+
+  # Harbor registry
+  - name: Docker Registry (Harbor)
+    url: https://registry.services.ai4os.eu
+    icon: https://goharbor.io/img/logos/harbor-icon-color.png
+    assignees:
+      - mariojmdavid
 
   # Cloud endpoints
   - name: Provider IFCA-LCG2 org.openstack.nova
     url: https://api.cloud.ifca.es:5000/v3
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-ifca.png
-    asignees: aidaph
+    assignees:
+      - aidaph
 
   - name: Provider NCG-INGRID-PT (INCD) org.openstack.nova
     url: https://stratus.ncg.ingrid.pt:5000/v3
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-incd.png
-    asignees: mariojmdavid
+    assignees:
+      - mariojmdavid
 
   - name: Provider IISAS-FedCloud org.openstack.nova
     url: https://cloud.ui.savba.sk:5000/v3
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-iisas.jpeg
-    asignees: tdviet
+    assignees:
+      - tdviet
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
