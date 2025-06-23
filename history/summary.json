@@ -22,9 +22,9 @@
     "url": "https://dashboard.cloud.ai4eosc.eu",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "dashboard-ai-4-eosc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 971,
     "timeMonth": 953,
     "timeYear": 953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-23": 0
+    }
   },
   {
     "name": "Dashboard (iMagine)",
@@ -58,9 +60,9 @@
     "url": "https://dashboard.cloud.ai4eosc.eu",
     "icon": "https://ai4life.eurobioimaging.eu/wp-content/uploads/2022/09/AI4Life-logo_giraffe-nodes-1536x710.png",
     "slug": "dashboard-ai-4-life",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +71,18 @@
     "timeWeek": 303,
     "timeMonth": 310,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-23": 0
+    }
   },
   {
     "name": "Dashboard (tutorials)",
     "url": "https://tutorials.cloud.ai4eosc.eu",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "dashboard-tutorials",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +91,9 @@
     "timeWeek": 948,
     "timeMonth": 915,
     "timeYear": 915,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-23": 0
+    }
   },
   {
     "name": "Module template generator",
@@ -95,11 +101,11 @@
     "icon": "https://avatars.githubusercontent.com/u/12502901?v=4",
     "slug": "module-template-generator",
     "status": "up",
-    "uptime": "96.88%",
+    "uptime": "97.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.40%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "96.88%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "97.00%",
     "time": 971,
     "timeDay": 863,
     "timeWeek": 1054,
@@ -170,18 +176,19 @@
     "url": "https://llm.dev.ai4eosc.eu/",
     "icon": "https://avatars.githubusercontent.com/u/158137808?s=200&v=4",
     "slug": "ai-4-os-llm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.42%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.34%",
     "time": 599,
     "timeDay": 641,
     "timeWeek": 662,
-    "timeMonth": 582,
+    "timeMonth": 585,
     "timeYear": 599,
     "dailyMinutesDown": {
+      "2025-06-23": 0,
       "2025-06-05": 141,
       "2025-06-03": 38,
       "2025-05-23": 75,
@@ -193,9 +200,9 @@
     "url": "https://jenkins.services.ai4os.eu/",
     "icon": "https://www.jenkins.io/images/jenkins-logo-title-dark.svg",
     "slug": "ci-cd-jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -204,7 +211,9 @@
     "timeWeek": 901,
     "timeMonth": 950,
     "timeYear": 950,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-23": 0
+    }
   },
   {
     "name": "MinIO object storage - Provider UPV/GRyCAP",
@@ -212,7 +221,7 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-minio.png",
     "slug": "min-io-object-storage-provider-upv-g-ry-cap",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -310,9 +319,9 @@
     "url": "https://api.cloud.ai4eosc.eu",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "platform-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -321,7 +330,9 @@
     "timeWeek": 564,
     "timeMonth": 580,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-23": 0
+    }
   },
   {
     "name": "Docker Registry (Harbor)",
