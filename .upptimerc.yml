@@ -84,6 +84,13 @@ sites:
       - alvarolopez
       - vykozlov
 
+  # Provenance
+  - name: Provenance
+    url: https://provenance.services.ai4os.eu/
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    assignees:
+      - pedro-predictia
+
   # MinIO
   - name: MinIO object storage - Provider UPV/GRyCAP
     url: https://console.minio.crazy-kowalevski5.im.grycap.net
