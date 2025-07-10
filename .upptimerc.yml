@@ -125,6 +125,13 @@ sites:
     icon: https://goharbor.io/img/logos/harbor-icon-color.png
     assignees:
       - mariojmdavid
+  
+  # Helpdesk
+  - name: AI4EOSC Helpdesk
+    url: https://helpdesk.cloud.ai4eosc.eu/
+    icon: https://raw.githubusercontent.com/zammad/zammad/refs/heads/develop/public/favicon.ico
+    assignees:
+      - vykozlov
 
   # Cloud endpoints
   - name: Provider IFCA-LCG2 org.openstack.nova
