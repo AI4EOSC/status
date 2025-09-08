@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "96.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.35%",
+    "uptimeWeek": "61.53%",
     "uptimeMonth": "89.59%",
     "uptimeYear": "96.29%",
     "time": 1157,
@@ -445,19 +445,19 @@
     "url": "https://registry.services.ai4os.eu",
     "icon": "https://goharbor.io/img/logos/harbor-icon-color.png",
     "slug": "docker-registry-harbor",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 967,
-    "timeDay": 1163,
-    "timeWeek": 1199,
-    "timeMonth": 1061,
+    "timeDay": 1036,
+    "timeWeek": 1167,
+    "timeMonth": 1057,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2025-09-08": 0
+      "2025-09-08": 18
     }
   },
   {
