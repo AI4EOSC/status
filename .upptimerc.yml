@@ -119,6 +119,15 @@ sites:
     assignees:
       - IgnacioHeredia
 
+  # Nomad cluster (IFCA endpoint)
+  - name: Nomad cluster
+    check: "tcp-ping"
+    url: 193.146.75.205
+    port: 4646
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-nomad.png
+    assignees:
+      - Sftobias
+
   # Harbor registry
   - name: Docker Registry (Harbor)
     url: https://registry.services.ai4os.eu
