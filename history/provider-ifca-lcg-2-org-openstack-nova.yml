@@ -1,7 +1,7 @@
 url: https://api.cloud.ifca.es:5000/v3
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-03T23:27:27.123Z
+status: up
+code: 200
+responseTime: 620
+lastUpdated: 2025-10-03T23:39:59.769Z
 startTime: 2023-05-04T21:50:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
