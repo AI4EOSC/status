@@ -307,7 +307,7 @@
     "time": 607,
     "timeDay": 467,
     "timeWeek": 513,
-    "timeMonth": 549,
+    "timeMonth": 550,
     "timeYear": 623,
     "dailyMinutesDown": {
       "2025-09-17": 24,
@@ -364,7 +364,7 @@
     "time": 874,
     "timeDay": 1133,
     "timeWeek": 959,
-    "timeMonth": 1079,
+    "timeMonth": 1071,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2025-09-15": 60,
@@ -493,9 +493,9 @@
     "url": "https://api.cloud.ifca.es:5000/v3",
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-ifca.png",
     "slug": "provider-ifca-lcg-2-org-openstack-nova",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "96.85%",
+    "uptimeDay": "96.81%",
     "uptimeWeek": "98.46%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "98.86%",
@@ -505,6 +505,7 @@
     "timeMonth": 527,
     "timeYear": 675,
     "dailyMinutesDown": {
+      "2025-10-15": 1,
       "2025-10-14": 45,
       "2025-10-13": 46,
       "2025-10-12": 26,
