@@ -105,13 +105,6 @@ sites:
     assignees:
       - gmolto
 
-  # Flowfuse AI4EOSC
-  - name: Flowfuse AI4EOSC - Provider UPV/GRyCAP
-    url: https://forge.flows.dev.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-flowfuse.png
-    assignees:
-      - dieagra
-
   # PAPI
   - name: Platform API
     url: https://api.cloud.ai4eosc.eu
