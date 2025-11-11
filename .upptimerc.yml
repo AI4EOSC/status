@@ -60,7 +60,7 @@ sites:
 
   # Storage
   - name: Storage (NextCloud)
-    url: https://share.services.ai4os.eu
+    url: https://share.cloud.ai4eosc.eu
     icon: https://avatars.githubusercontent.com/u/19211038?s=280&v=4
     assignees:
       - mariojmdavid
@@ -139,7 +139,7 @@ sites:
 
   # Harbor registry
   - name: Docker Registry (Harbor)
-    url: https://registry.services.ai4os.eu
+    url: https://registry.cloud.ai4eosc.eu
     icon: https://goharbor.io/img/logos/harbor-icon-color.png
     assignees:
       - mariojmdavid
