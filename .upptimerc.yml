@@ -112,13 +112,13 @@ sites:
 
   # MinIO
   - name: MinIO object storage - Provider UPV/GRyCAP
-    url: https://console.minio.crazy-kowalevski5.im.grycap.net
+    url: https://minio-inference.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-minio.png
     assignees:
       - gmolto
 
-  # OSCAR UI
-  - name: OSCAR UI - Provider UPV/GRyCAP
+  # OSCAR
+  - name: OSCAR - Provider UPV/GRyCAP
     url: https://inference.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg
     assignees:
