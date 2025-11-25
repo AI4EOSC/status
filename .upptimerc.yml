@@ -3,12 +3,6 @@ owner: AI4EOSC # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
-  - name: Homepage
-    url: https://ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    assignees:
-      - alvarolopez
-
   # Dashboards
   - name: Dashboard (AI4EOSC)
     url: https://dashboard.cloud.ai4eosc.eu
@@ -34,7 +28,19 @@ sites:
     assignees:
       - MartaOB
 
-  # LLM APIs
+  - name: Homepage
+    url: https://ai4eosc.eu
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    assignees:
+      - alvarolopez
+
+  # LLM APIs and Services
+  - name: LLM4EOSC (dev) Chatbot service (Open WebUI)
+    url: https://llm.dev.ai4eosc.eu/
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/openwebui.png
+    asignees: 
+      - alvarolopez
+
   - name: LLM4EOSC vLLM API core service
     url: https://vllm.cloud.ai4eosc.eu/v1/models
     headers:
@@ -67,12 +73,6 @@ sites:
     
   - name: LLM4EOSC (dev) Open WebUI API service
     url: https://llm.dev.ai4eosc.eu:5000
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/openwebui.png
-    asignees: 
-      - alvarolopez
-  
-  - name: LLM4EOSC (dev) Chatbot service
-    url: https://llm.dev.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/openwebui.png
     asignees: 
       - alvarolopez
@@ -111,13 +111,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/39938107?v=4
     assignees:
       - vykozlov
-
-  # AI4OS LLM
-  - name: AI4OS LLM
-    url: https://llm.dev.ai4eosc.eu/
-    icon: https://avatars.githubusercontent.com/u/158137808?s=200&v=4
-    assignees:
-      - alvarolopez
 
   # Jenkins CI/CD
   - name: CI/CD (Jenkins)
