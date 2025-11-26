@@ -1,7 +1,7 @@
 url: https://llm.dev.ai4eosc.eu/
-status: up
-code: 200
-responseTime: 757
-lastUpdated: 2025-11-26T10:06:35.009Z
+status: down
+code: 503
+responseTime: 789
+lastUpdated: 2025-11-26T10:32:52.920Z
 startTime: 2025-11-26T10:06:34.249Z
 generator: Upptime <https://github.com/upptime/upptime>
