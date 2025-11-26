@@ -35,7 +35,7 @@ sites:
       - alvarolopez
 
   # LLM APIs and Services
-  - name: LLM4EOSC (dev) Chatbot service (Open WebUI)
+  - name: LLM4EOSC (dev) Chatbot service
     url: https://llm.dev.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/openwebui.png
     asignees: 
