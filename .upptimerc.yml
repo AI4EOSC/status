@@ -197,7 +197,7 @@ status-website:
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
   theme: light
-  name: AI4EOSC service and platform status
+  name: AI4EOSC services and platform status
   introTitle: "AI platform for the European Open Science Cloud."
   introMessage: This page provides a real time overview of the [AI4EOSC](https://ai4eosc.eu) platform and services status.
   navbar:
