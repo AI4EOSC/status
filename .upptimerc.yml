@@ -129,10 +129,11 @@ sites:
 
   # MinIO
   - name: MinIO object storage - Provider UPV/GRyCAP
-    url: https://minio-inference.cloud.ai4eosc.eu/
+    url: https://console-minio-inference.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-minio.png
     assignees:
       - gmolto
+      - SergioLangaritaBenitez
 
   # OSCAR
   - name: OSCAR - Provider UPV/GRyCAP
@@ -140,6 +141,7 @@ sites:
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg
     assignees:
       - gmolto
+      - SergioLangaritaBenitez
 
   # PAPI
   - name: Platform API
