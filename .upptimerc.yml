@@ -35,46 +35,31 @@ sites:
       - alvarolopez
 
   # LLM APIs and Services
-  - name: LLM4EOSC (dev) Chatbot service
-    url: https://llm.dev.ai4eosc.eu/
+  - name: LLM4EOSC Chat
+    url: https://chat.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/openwebui.png
-    asignees: 
+    asignees:
       - alvarolopez
 
-  - name: LLM4EOSC vLLM API core service
-    url: https://vllm.cloud.ai4eosc.eu/v1/models
-    headers:
-      - "Authorization: Bearer $SECRET_LLM_API"
-      - "Content-Type: application/json"
+  - name: LLM4EOSC LiteLLM (federated)
+    url: https://vllm.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png
-    asignees: 
-      - alvarolopez
+    asignees:
       - sftobias
-      
-  - name: LLM4EOSC vLLM API IISAS service
+      - alvarolopez
+
+  - name: LLM4EOSC LiteLLM (IFCA)
+    url: https://ifca01-vllm.cloud.ai4eosc.eu/
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png
+    asignees:
+      - sftobias
+      - alvarolopez
+
+  - name: LLM4EOSC LiteLLM (IFCA)
     url: https://iisas01-vllm.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png
-    asignees: 
-      - alvarolopez
+    asignees:
       - sftobias
-      
-  - name: LLM4EOSC vLLM API EU Node service
-    url: https://eu01-vllm.cloud.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png
-    asignees: 
-      - alvarolopez
-      - sftobias 
-      
-  - name: LLM4EOSC (dev) vLLM API service
-    url: https://llm.dev.ai4eosc.eu:8000/v1/models
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png
-    asignees: 
-      - alvarolopez
-    
-  - name: LLM4EOSC (dev) Open WebUI API service
-    url: https://llm.dev.ai4eosc.eu:5000
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/openwebui.png
-    asignees: 
       - alvarolopez
 
   # Cookiecutter
@@ -122,9 +107,10 @@ sites:
 
   # Provenance
   - name: Provenance
-    url: https://provenance.services.ai4os.eu/
+    url: https://provenance.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     assignees:
+      - IgnacioHeredia
       - pedro-predictia
 
   # MinIO
@@ -165,7 +151,7 @@ sites:
     icon: https://goharbor.io/img/logos/harbor-icon-color.png
     assignees:
       - mariojmdavid
-  
+
   # Helpdesk
   - name: AI4EOSC Helpdesk
     url: https://helpdesk.cloud.ai4eosc.eu/
