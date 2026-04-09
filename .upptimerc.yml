@@ -167,7 +167,7 @@ sites:
       - aidaph
 
   - name: Provider NCG-INGRID-PT (INCD) org.openstack.nova
-    url: https://stratus.ncg.ingrid.pt:5000/v3
+    url: https://stratus.a.acnca.pt:5000/v3
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-incd.png
     assignees:
       - mariojmdavid
