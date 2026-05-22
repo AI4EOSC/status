@@ -1,7 +1,7 @@
 url: https://chat.cloud.ai4eosc.eu/
-status: up
-code: 200
-responseTime: 621
-lastUpdated: 2026-05-21T23:52:48.723Z
+status: down
+code: 503
+responseTime: 1016
+lastUpdated: 2026-05-22T09:53:33.830Z
 startTime: 2026-04-09T09:43:24.728Z
 generator: Upptime <https://github.com/upptime/upptime>
