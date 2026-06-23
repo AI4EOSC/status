@@ -14,7 +14,7 @@
     "timeDay": 1338,
     "timeWeek": 1313,
     "timeMonth": 1317,
-    "timeYear": 1278,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2025-06-27": 820,
       "2025-06-26": 1440,
@@ -56,7 +56,7 @@
     "timeDay": 1369,
     "timeWeek": 1468,
     "timeMonth": 1328,
-    "timeYear": 1400,
+    "timeYear": 1401,
     "dailyMinutesDown": {
       "2025-06-27": 820,
       "2025-06-26": 1440,
@@ -100,7 +100,7 @@
     "timeDay": 1079,
     "timeWeek": 1037,
     "timeMonth": 1092,
-    "timeYear": 460,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2025-06-27": 820,
       "2025-06-26": 1440,
@@ -139,7 +139,7 @@
     "timeDay": 1283,
     "timeWeek": 1230,
     "timeMonth": 1162,
-    "timeYear": 1167,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2025-06-27": 820,
       "2025-06-26": 1440,
@@ -221,7 +221,7 @@
     "uptime": "93.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.87%",
+    "uptimeMonth": "90.01%",
     "uptimeYear": "93.55%",
     "time": 901,
     "timeDay": 1105,
@@ -270,18 +270,18 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png",
     "slug": "llm-4-eosc-lite-llm-ifca",
     "status": "down",
-    "uptime": "86.63%",
+    "uptime": "86.64%",
     "uptimeDay": "0.20%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "66.79%",
-    "uptimeYear": "86.63%",
-    "time": 913,
-    "timeDay": 1227,
-    "timeWeek": 920,
-    "timeMonth": 875,
-    "timeYear": 913,
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "66.81%",
+    "uptimeYear": "86.64%",
+    "time": 912,
+    "timeDay": 1221,
+    "timeWeek": 918,
+    "timeMonth": 874,
+    "timeYear": 912,
     "dailyMinutesDown": {
-      "2026-06-13": 248,
+      "2026-06-13": 176,
       "2026-06-14": 1438,
       "2026-06-15": 1437,
       "2026-06-16": 1438,
@@ -291,7 +291,7 @@
       "2026-06-20": 1437,
       "2026-06-21": 1438,
       "2026-06-22": 1436,
-      "2026-06-23": 1361
+      "2026-06-23": 1423
     }
   },
   {
@@ -300,18 +300,18 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png",
     "slug": "llm-4-eosc-lite-llm-ifca",
     "status": "down",
-    "uptime": "86.63%",
+    "uptime": "86.64%",
     "uptimeDay": "0.20%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "66.79%",
-    "uptimeYear": "86.63%",
-    "time": 913,
-    "timeDay": 1227,
-    "timeWeek": 920,
-    "timeMonth": 875,
-    "timeYear": 913,
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "66.81%",
+    "uptimeYear": "86.64%",
+    "time": 912,
+    "timeDay": 1221,
+    "timeWeek": 918,
+    "timeMonth": 874,
+    "timeYear": 912,
     "dailyMinutesDown": {
-      "2026-06-13": 248,
+      "2026-06-13": 176,
       "2026-06-14": 1438,
       "2026-06-15": 1437,
       "2026-06-16": 1438,
@@ -321,7 +321,7 @@
       "2026-06-20": 1437,
       "2026-06-21": 1438,
       "2026-06-22": 1436,
-      "2026-06-23": 1361
+      "2026-06-23": 1423
     }
   },
   {
@@ -330,11 +330,11 @@
     "icon": "https://avatars.githubusercontent.com/u/12502901?v=4",
     "slug": "module-template-generator",
     "status": "down",
-    "uptime": "86.98%",
+    "uptime": "86.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.61%",
+    "uptimeYear": "86.59%",
     "time": 906,
     "timeDay": 0,
     "timeWeek": 0,
@@ -343,7 +343,7 @@
     "dailyMinutesDown": {
       "2025-09-09": 151,
       "2025-12-25": 17,
-      "2026-06-23": 1364,
+      "2026-06-23": 1426,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -409,7 +409,7 @@
     "timeDay": 1884,
     "timeWeek": 2116,
     "timeMonth": 1800,
-    "timeYear": 1446,
+    "timeYear": 1448,
     "dailyMinutesDown": {
       "2025-06-26": 91,
       "2025-07-31": 165,
@@ -470,7 +470,7 @@
     "timeDay": 1144,
     "timeWeek": 886,
     "timeMonth": 997,
-    "timeYear": 992,
+    "timeYear": 993,
     "dailyMinutesDown": {
       "2025-11-11": 461,
       "2026-02-23": 53
@@ -491,7 +491,7 @@
     "timeDay": 3151,
     "timeWeek": 2823,
     "timeMonth": 2547,
-    "timeYear": 1912,
+    "timeYear": 1915,
     "dailyMinutesDown": {
       "2025-06-26": 90,
       "2025-07-31": 163,
@@ -645,7 +645,7 @@
     "timeDay": 756,
     "timeWeek": 682,
     "timeMonth": 672,
-    "timeYear": 707,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2025-07-24": 40,
       "2025-07-25": 89,
@@ -744,7 +744,7 @@
     "timeDay": 688,
     "timeWeek": 658,
     "timeMonth": 684,
-    "timeYear": 633,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2025-06-26": 89,
       "2025-07-31": 163,
@@ -851,7 +851,7 @@
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.54%",
+    "uptimeMonth": "94.68%",
     "uptimeYear": "97.90%",
     "time": 618,
     "timeDay": 527,
@@ -1032,7 +1032,7 @@
     "timeDay": 1050,
     "timeWeek": 783,
     "timeMonth": 733,
-    "timeYear": 846,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2025-09-09": 89,
       "2025-12-25": 16
