@@ -221,7 +221,7 @@
     "uptime": "93.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.96%",
+    "uptimeMonth": "87.01%",
     "uptimeYear": "93.47%",
     "time": 901,
     "timeDay": 1105,
@@ -270,11 +270,11 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png",
     "slug": "llm-4-eosc-lite-llm-ifca",
     "status": "down",
-    "uptime": "86.65%",
+    "uptime": "86.63%",
     "uptimeDay": "0.14%",
     "uptimeWeek": "0.17%",
-    "uptimeMonth": "67.24%",
-    "uptimeYear": "86.65%",
+    "uptimeMonth": "67.19%",
+    "uptimeYear": "86.63%",
     "time": 899,
     "timeDay": 1007,
     "timeWeek": 861,
@@ -291,7 +291,7 @@
       "2026-06-20": 1437,
       "2026-06-21": 1438,
       "2026-06-22": 1436,
-      "2026-06-23": 90
+      "2026-06-23": 113
     }
   },
   {
@@ -300,11 +300,11 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png",
     "slug": "llm-4-eosc-lite-llm-ifca",
     "status": "down",
-    "uptime": "86.65%",
+    "uptime": "86.63%",
     "uptimeDay": "0.14%",
     "uptimeWeek": "0.17%",
-    "uptimeMonth": "67.24%",
-    "uptimeYear": "86.65%",
+    "uptimeMonth": "67.19%",
+    "uptimeYear": "86.63%",
     "time": 899,
     "timeDay": 1007,
     "timeWeek": 861,
@@ -321,7 +321,7 @@
       "2026-06-20": 1437,
       "2026-06-21": 1438,
       "2026-06-22": 1436,
-      "2026-06-23": 91
+      "2026-06-23": 113
     }
   },
   {
@@ -334,7 +334,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.85%",
+    "uptimeYear": "86.84%",
     "time": 906,
     "timeDay": 0,
     "timeWeek": 0,
@@ -343,7 +343,7 @@
     "dailyMinutesDown": {
       "2025-09-09": 151,
       "2025-12-25": 17,
-      "2026-06-23": 91,
+      "2026-06-23": 114,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -851,7 +851,7 @@
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.64%",
+    "uptimeMonth": "91.69%",
     "uptimeYear": "97.90%",
     "time": 618,
     "timeDay": 527,
