@@ -99,7 +99,7 @@ sites:
 
   # Jenkins CI/CD
   - name: CI/CD (Jenkins)
-    url: https://jenkins.services.ai4os.eu/
+    url: https://jenkins.cloud.ai4eosc.eu/
     icon: https://www.jenkins.io/images/jenkins-logo-title-dark.svg
     assignees:
       - alvarolopez
