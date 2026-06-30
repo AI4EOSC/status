@@ -258,8 +258,8 @@
     "slug": "llm-4-eosc-lite-llm-ifca",
     "status": "up",
     "uptime": "89.38%",
-    "uptimeDay": "9.72%",
-    "uptimeWeek": "1.57%",
+    "uptimeDay": "9.78%",
+    "uptimeWeek": "1.58%",
     "uptimeMonth": "71.35%",
     "uptimeYear": "89.38%",
     "time": 887,
@@ -286,18 +286,18 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png",
     "slug": "llm-4-eosc-lite-llm-iisas",
     "status": "down",
-    "uptime": "3.52%",
-    "uptimeDay": "3.52%",
-    "uptimeWeek": "3.52%",
-    "uptimeMonth": "3.52%",
-    "uptimeYear": "3.52%",
+    "uptime": "3.50%",
+    "uptimeDay": "3.50%",
+    "uptimeWeek": "3.50%",
+    "uptimeMonth": "3.50%",
+    "uptimeYear": "3.50%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 133
+      "2026-06-30": 134
     }
   },
   {
@@ -319,7 +319,7 @@
     "dailyMinutesDown": {
       "2025-09-09": 151,
       "2025-12-25": 17,
-      "2026-06-30": 680,
+      "2026-06-30": 681,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -849,18 +849,18 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg",
     "slug": "grafana-monitoring",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 468,
     "timeDay": 468,
     "timeWeek": 468,
     "timeMonth": 468,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2026-06-30": 127
+      "2026-06-30": 128
     }
   },
   {
