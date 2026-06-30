@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.19%",
-    "time": 1264,
-    "timeDay": 1714,
-    "timeWeek": 1215,
-    "timeMonth": 1258,
-    "timeYear": 1284,
+    "time": 1275,
+    "timeDay": 3456,
+    "timeWeek": 1713,
+    "timeMonth": 1378,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2025-07-29": 26,
       "2025-07-31": 169,
@@ -258,8 +258,8 @@
     "slug": "llm-4-eosc-lite-llm-ifca",
     "status": "up",
     "uptime": "89.37%",
-    "uptimeDay": "0.93%",
-    "uptimeWeek": "0.31%",
+    "uptimeDay": "0.98%",
+    "uptimeWeek": "0.32%",
     "uptimeMonth": "71.35%",
     "uptimeYear": "89.37%",
     "time": 889,
@@ -286,18 +286,18 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png",
     "slug": "llm-4-eosc-lite-llm-iisas",
     "status": "down",
-    "uptime": "44.50%",
-    "uptimeDay": "44.50%",
-    "uptimeWeek": "44.50%",
-    "uptimeMonth": "44.50%",
-    "uptimeYear": "44.50%",
+    "uptime": "41.41%",
+    "uptimeDay": "41.41%",
+    "uptimeWeek": "41.41%",
+    "uptimeMonth": "41.41%",
+    "uptimeYear": "41.41%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 6
+      "2026-06-30": 7
     }
   },
   {
@@ -319,7 +319,7 @@
     "dailyMinutesDown": {
       "2025-09-09": 151,
       "2025-12-25": 17,
-      "2026-06-30": 553,
+      "2026-06-30": 554,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -829,18 +829,18 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg",
     "slug": "grafana-monitoring",
     "status": "down",
-    "uptime": "22.39%",
-    "uptimeDay": "22.39%",
-    "uptimeWeek": "22.39%",
-    "uptimeMonth": "22.39%",
-    "uptimeYear": "22.39%",
+    "uptime": "12.17%",
+    "uptimeDay": "12.17%",
+    "uptimeWeek": "12.17%",
+    "uptimeMonth": "12.17%",
+    "uptimeYear": "12.17%",
     "time": 543,
     "timeDay": 543,
     "timeWeek": 543,
     "timeMonth": 543,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2026-06-30": 1
+      "2026-06-30": 2
     }
   },
   {
