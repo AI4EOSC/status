@@ -55,7 +55,7 @@ sites:
       - sftobias
       - alvarolopez
 
-  - name: LLM4EOSC LiteLLM (IFCA)
+  - name: LLM4EOSC LiteLLM (IISAS)
     url: https://iisas01-vllm.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png
     asignees:
@@ -158,6 +158,13 @@ sites:
     icon: https://raw.githubusercontent.com/zammad/zammad/refs/heads/develop/public/favicon.ico
     assignees:
       - vykozlov
+
+  # Grafana monitoring
+  - name: Grafana monitoring
+    url: https://grafana.cloud.ai4eosc.eu/
+    icon: https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg
+    asignees:
+      - sftobias
 
   # Cloud endpoints
   - name: Provider IFCA-LCG2 org.openstack.nova
