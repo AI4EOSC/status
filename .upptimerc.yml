@@ -152,6 +152,14 @@ sites:
     assignees:
       - mariojmdavid
 
+  # Vault
+  - name: Secrets (Vault)
+    url: https://secrets.services.ai4os.eu
+    port: 8200
+    icon: https://raw.githubusercontent.com/docker-library/docs/90d4d43bdfccd5cb21e5fd964d32b0074af0f357/vault/logo.svg?sanitize=true
+    assignees:
+      - tdviet
+
   # Helpdesk
   - name: AI4EOSC Helpdesk
     url: https://helpdesk.cloud.ai4eosc.eu/
