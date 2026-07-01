@@ -259,7 +259,7 @@
     "status": "up",
     "uptime": "89.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "14.83%",
+    "uptimeWeek": "14.84%",
     "uptimeMonth": "71.35%",
     "uptimeYear": "89.50%",
     "time": 889,
@@ -297,7 +297,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 579,
+      "2026-07-01": 580,
       "2026-06-30": 893
     }
   },
@@ -320,7 +320,7 @@
     "dailyMinutesDown": {
       "2025-09-09": 151,
       "2025-12-25": 17,
-      "2026-07-01": 579,
+      "2026-07-01": 580,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -852,18 +852,18 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg",
     "slug": "grafana-monitoring",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 493,
     "timeDay": 476,
     "timeWeek": 493,
     "timeMonth": 493,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2026-07-01": 580,
+      "2026-07-01": 581,
       "2026-06-30": 887
     }
   },
