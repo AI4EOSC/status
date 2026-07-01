@@ -159,10 +159,16 @@ sites:
     assignees:
       - tdviet
 
-  # Helpdesk
+  # Helpdesk & Community
   - name: AI4EOSC Helpdesk
     url: https://helpdesk.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/zammad/zammad/refs/heads/develop/public/favicon.ico
+    assignees:
+      - vykozlov
+
+  - name: AI4EOSC Community
+    url: https://community.cloud.ai4eosc.eu/
+    icon: https://upload.wikimedia.org/wikipedia/commons/1/17/Discourse_icon.svg
     assignees:
       - vykozlov
 
