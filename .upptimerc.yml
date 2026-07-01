@@ -154,8 +154,7 @@ sites:
 
   # Vault
   - name: Secrets (Vault)
-    url: https://secrets.services.ai4os.eu
-    port: 8200
+    url: https://secrets.services.ai4os.eu:8200
     icon: https://raw.githubusercontent.com/docker-library/docs/90d4d43bdfccd5cb21e5fd964d32b0074af0f357/vault/logo.svg?sanitize=true
     assignees:
       - tdviet
