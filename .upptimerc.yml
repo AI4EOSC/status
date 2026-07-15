@@ -174,7 +174,7 @@ sites:
 
   # Grafana monitoring
   - name: Grafana monitoring
-    url: https://grafana.cloud.ai4eosc.eu/
+    url: https://grafana.k8s.cloud.ai4eosc.eu/
     icon: https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg
     asignees:
       - sftobias
