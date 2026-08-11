@@ -117,6 +117,8 @@ sites:
   - name: MinIO object storage - Provider UPV/GRyCAP
     url: https://console-minio-inference.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-minio.png
+    type: globalping
+    location: Western Europe
     assignees:
       - gmolto
       - SergioLangaritaBenitez
@@ -125,6 +127,8 @@ sites:
   - name: OSCAR - Provider UPV/GRyCAP
     url: https://inference.cloud.ai4eosc.eu
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg
+    type: globalping
+    location: Western Europe
     assignees:
       - gmolto
       - SergioLangaritaBenitez
