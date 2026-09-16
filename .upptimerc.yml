@@ -170,7 +170,7 @@ sites:
     url: https://registry.cloud.ai4eosc.eu
     icon: https://goharbor.io/img/logos/harbor-icon-color.png
     assignees:
-      - mariojmdavid
+      - jprmachado
 
   # Vault
   - name: Secrets (Vault)
