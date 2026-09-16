@@ -13,6 +13,12 @@ sites:
     assignees:
       - alvarolopez
 
+  - name: Documentation
+    url: https://docs.ai4eosc.eu
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    assignees:
+      - IgnacioHeredia
+
   # Dashboards
   - name: Dashboard (AI4EOSC)
     url: https://dashboard.cloud.ai4eosc.eu
