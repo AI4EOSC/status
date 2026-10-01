@@ -77,6 +77,15 @@ sites:
     asignees:
       - sftobias
 
+  # Milvus Vector Database
+  - name: Milvus Vector Database
+    check: tcp-ping
+    url: milvus.k8s.cloud.ai4eosc.eu
+    port: 443
+    icon: https://raw.githubusercontent.com/milvus-io/artwork/blob/master/icon/color/milvus-icon-color.png
+    assignees:
+      - sftobias
+
   # Cookiecutter
   - name: Module template generator
     url: https://templates.cloud.ai4eosc.eu/
