@@ -399,18 +399,18 @@
     "icon": "https://avatars.githubusercontent.com/u/18416694?v=4",
     "slug": "attu-milvus-ui",
     "status": "down",
-    "uptime": "21.11%",
-    "uptimeDay": "21.11%",
-    "uptimeWeek": "21.11%",
-    "uptimeMonth": "21.11%",
-    "uptimeYear": "21.11%",
+    "uptime": "10.93%",
+    "uptimeDay": "10.93%",
+    "uptimeWeek": "10.93%",
+    "uptimeMonth": "10.93%",
+    "uptimeYear": "10.93%",
     "time": 1667,
     "timeDay": 1667,
     "timeWeek": 1667,
     "timeMonth": 1667,
     "timeYear": 1667,
     "dailyMinutesDown": {
-      "2026-10-06": 1
+      "2026-10-06": 2
     }
   },
   {
@@ -1094,8 +1094,8 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.79%",
-    "uptimeMonth": "87.83%",
+    "uptimeWeek": "62.78%",
+    "uptimeMonth": "87.82%",
     "uptimeYear": "96.76%",
     "time": 544,
     "timeDay": 504,
@@ -1188,7 +1188,7 @@
       "2026-09-26": 247,
       "2026-09-28": 51,
       "2026-09-27": 102,
-      "2026-10-06": 553,
+      "2026-10-06": 554,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 317
