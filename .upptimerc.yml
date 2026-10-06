@@ -86,6 +86,12 @@ sites:
     assignees:
       - sftobias
 
+  - name: Attu (Milvus UI)
+    url: attu.k8s.cloud.ai4eosc.eu
+    icon: https://avatars.githubusercontent.com/u/18416694?v=4
+    assignees:
+      - sftobias
+
   # Cookiecutter
   - name: Module template generator
     url: https://templates.cloud.ai4eosc.eu/
