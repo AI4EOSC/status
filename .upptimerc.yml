@@ -89,6 +89,9 @@ sites:
   - name: Attu (Milvus UI)
     url: https://attu.k8s.cloud.ai4eosc.eu
     icon: https://avatars.githubusercontent.com/u/18416694?v=4
+    expectedStatusCodes:
+        - 200
+        - 401
     assignees:
       - sftobias
 
