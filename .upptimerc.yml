@@ -77,6 +77,13 @@ sites:
     asignees:
       - sftobias
 
+  # Argo CD (GitOps K8s manager)
+  - name: Argo CD (GitOps)
+    url: https://argocd.k8s.cloud.ai4eosc.eu/
+    icon: https://avatars.githubusercontent.com/u/30269780?s=60&v=4
+    asignees:
+      - sftobias
+
   # Milvus Vector Database
   - name: Milvus Vector Database
     check: tcp-ping
