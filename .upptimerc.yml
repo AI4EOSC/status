@@ -57,6 +57,18 @@ sites:
     asignees:
       - alvarolopez
 
+  - name: GenAI (UI)
+    url: https://genai.dev.ai4eosc.eu/
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    asignees:
+      - MartaOB
+
+  - name: GenAI (API)
+    url: https://genai-api.dev.ai4eosc.eu/
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    asignees:
+      - MartaOB
+
   - name: LLM4EOSC LiteLLM (federated)
     url: https://vllm.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png
