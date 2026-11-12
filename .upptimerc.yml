@@ -19,6 +19,10 @@ sites:
     assignees:
       - IgnacioHeredia
 
+  #####################################
+  # Dashboards + PAPI
+  #####################################
+
   # Dashboards
   - name: Dashboard (AI4EOSC)
     url: https://dashboard.cloud.ai4eosc.eu
@@ -50,7 +54,19 @@ sites:
     assignees:
       - MartaOB
 
-  # LLM APIs and Services
+  # PAPI
+  - name: Platform API
+    url: https://api.cloud.ai4eosc.eu
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
+    assignees:
+      - IgnacioHeredia
+
+
+  #####################################
+  # GenAI stuff
+  #####################################
+
+  # LLM APIs + UIs
   - name: LLM4EOSC Chat
     url: https://chat.cloud.ai4eosc.eu/
     icon: https://avatars.githubusercontent.com/u/158137808?s=60&v=4
@@ -69,6 +85,7 @@ sites:
     asignees:
       - MartaOB
 
+  # LiteLLM providers
   - name: LLM4EOSC LiteLLM (federated)
     url: https://vllm.cloud.ai4eosc.eu/
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/vllm.png
@@ -89,14 +106,7 @@ sites:
     asignees:
       - sftobias
 
-  # Argo CD (GitOps K8s manager)
-  - name: Argo CD (GitOps)
-    url: https://argocd.k8s.cloud.ai4eosc.eu/
-    icon: https://avatars.githubusercontent.com/u/30269780?s=60&v=4
-    asignees:
-      - sftobias
-
-  # Milvus Vector Database
+  # Milvus Vector Database + UI
   - name: Milvus Vector Database
     check: tcp-ping
     url: milvus.k8s.cloud.ai4eosc.eu
@@ -113,6 +123,10 @@ sites:
         - 401
     assignees:
       - sftobias
+
+  #####################################
+  # Other user-facing services
+  #####################################
 
   # Cookiecutter
   - name: Module template generator
@@ -166,56 +180,6 @@ sites:
       - IgnacioHeredia
       - pedro-predictia
 
-  # MinIO
-  - name: MinIO object storage - Provider UPV/GRyCAP
-    url: https://console-minio-inference.cloud.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-minio.png
-    type: globalping
-    location: Western Europe
-    assignees:
-      - gmolto
-      - SergioLangaritaBenitez
-
-  # OSCAR
-  - name: OSCAR - Provider UPV/GRyCAP
-    url: https://inference.cloud.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg
-    type: globalping
-    location: Western Europe
-    assignees:
-      - gmolto
-      - SergioLangaritaBenitez
-
-  # PAPI
-  - name: Platform API
-    url: https://api.cloud.ai4eosc.eu
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
-    assignees:
-      - IgnacioHeredia
-
-  # Nomad cluster (IFCA endpoint)
-  - name: Nomad cluster
-    check: "tcp-ping"
-    url: 193.146.75.205
-    port: 4646
-    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-nomad.png
-    assignees:
-      - Sftobias
-
-  # Harbor registry
-  - name: Docker Registry (Harbor)
-    url: https://registry.cloud.ai4eosc.eu
-    icon: https://goharbor.io/img/logos/harbor-icon-color.png
-    assignees:
-      - jprmachado
-
-  # Vault
-  - name: Secrets (Vault)
-    url: https://secrets.services.ai4os.eu:8200
-    icon: https://raw.githubusercontent.com/docker-library/docs/90d4d43bdfccd5cb21e5fd964d32b0074af0f357/vault/logo.svg?sanitize=true
-    assignees:
-      - tdviet
-
   # Helpdesk & Community
   - name: AI4EOSC Helpdesk
     url: https://helpdesk.cloud.ai4eosc.eu/
@@ -231,12 +195,65 @@ sites:
     assignees:
       - vykozlov
 
+  #####################################
+  # BACKEND SERVICES
+  #####################################
+
+  # Argo CD (GitOps K8s manager)
+  - name: Argo CD (GitOps)
+    url: https://argocd.k8s.cloud.ai4eosc.eu/
+    icon: https://avatars.githubusercontent.com/u/30269780?s=60&v=4
+    asignees:
+      - sftobias
+
   # Grafana monitoring
   - name: Grafana monitoring
     url: https://grafana.k8s.cloud.ai4eosc.eu/
     icon: https://avatars.githubusercontent.com/u/7195757?s=60&v=4
     asignees:
       - sftobias
+
+  # Harbor registry
+  - name: Docker Registry (Harbor)
+    url: https://registry.cloud.ai4eosc.eu
+    icon: https://goharbor.io/img/logos/harbor-icon-color.png
+    assignees:
+      - jprmachado
+
+  # Vault
+  - name: Secrets (Vault)
+    url: https://secrets.services.ai4os.eu:8200
+    icon: https://raw.githubusercontent.com/docker-library/docs/90d4d43bdfccd5cb21e5fd964d32b0074af0f357/vault/logo.svg?sanitize=true
+    assignees:
+      - tdviet
+
+  # Nomad cluster (IFCA endpoint)
+  - name: Nomad cluster
+    check: "tcp-ping"
+    url: 193.146.75.205
+    port: 4646
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-nomad.png
+    assignees:
+      - Sftobias
+
+  # OSCAR + MinIO
+  - name: OSCAR - Provider UPV/GRyCAP
+    url: https://inference.cloud.ai4eosc.eu
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-oscar.jpeg
+    type: globalping
+    location: Western Europe
+    assignees:
+      - gmolto
+      - SergioLangaritaBenitez
+
+  - name: MinIO object storage - Provider UPV/GRyCAP
+    url: https://console-minio-inference.cloud.ai4eosc.eu
+    icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo-minio.png
+    type: globalping
+    location: Western Europe
+    assignees:
+      - gmolto
+      - SergioLangaritaBenitez
 
   # Cloud endpoints
   - name: Provider IFCA-LCG2 org.openstack.nova
