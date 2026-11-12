@@ -290,18 +290,18 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "gen-ai-api",
     "status": "down",
-    "uptime": "0.93%",
-    "uptimeDay": "0.93%",
-    "uptimeWeek": "0.93%",
-    "uptimeMonth": "0.93%",
-    "uptimeYear": "0.93%",
+    "uptime": "0.87%",
+    "uptimeDay": "0.87%",
+    "uptimeWeek": "0.87%",
+    "uptimeMonth": "0.87%",
+    "uptimeYear": "0.87%",
     "time": 566,
     "timeDay": 566,
     "timeWeek": 566,
     "timeMonth": 566,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2026-11-12": 26
+      "2026-11-12": 27
     }
   },
   {
@@ -457,7 +457,7 @@
     "uptime": "80.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.77%",
+    "uptimeMonth": "96.78%",
     "uptimeYear": "80.94%",
     "time": 811,
     "timeDay": 612,
