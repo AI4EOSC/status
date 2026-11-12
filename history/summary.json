@@ -261,18 +261,18 @@
     "icon": "https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png",
     "slug": "gen-ai-api",
     "status": "down",
-    "uptime": "12.62%",
-    "uptimeDay": "12.62%",
-    "uptimeWeek": "12.62%",
-    "uptimeMonth": "12.62%",
-    "uptimeYear": "12.62%",
+    "uptime": "6.28%",
+    "uptimeDay": "6.28%",
+    "uptimeWeek": "6.28%",
+    "uptimeMonth": "6.28%",
+    "uptimeYear": "6.28%",
     "time": 680,
     "timeDay": 680,
     "timeWeek": 680,
     "timeMonth": 680,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2026-11-12": 2
+      "2026-11-12": 3
     }
   },
   {
@@ -633,8 +633,8 @@
     "slug": "m-lflow-ai-4-eosc",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.86%",
     "time": 782,
@@ -647,7 +647,7 @@
       "2026-05-26": 125,
       "2026-09-15": 345,
       "2026-10-14": 199,
-      "2026-11-12": 1
+      "2026-11-12": 3
     }
   },
   {
