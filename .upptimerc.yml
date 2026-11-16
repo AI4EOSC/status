@@ -80,7 +80,7 @@ sites:
       - MartaOB
 
   - name: GenAI (API)
-    url: https://genai-api.dev.ai4eosc.eu/
+    url: https://genai-api.dev.ai4eosc.eu/docs
     icon: https://raw.githubusercontent.com/ai4eosc/status/master/static/logo.png
     asignees:
       - MartaOB
